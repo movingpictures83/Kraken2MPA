@@ -1,0 +1,2 @@
+Prefix plugins/Kraken2MPA/example/
+Plugin Kraken2MPA inputfile parameters.kraken2mpa.txt outputfile small1.kraken.report.mpa.txt

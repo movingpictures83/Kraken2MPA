@@ -1,0 +1,2 @@
+report	small1.kraken.report.std.txt
+intermediate_ranks	True
